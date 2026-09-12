@@ -1,1 +1,19 @@
-placeholder
+{
+  "saved_at": "2026-09-12T11:19:01.018922-07:00",
+  "games": [
+    {"away": "CHI", "home": "CAR", "market_home": 3.0},
+    {"away": "TB", "home": "CIN", "market_home": -3.5},
+    {"away": "BAL", "home": "IND", "market_home": 3.0},
+    {"away": "BUF", "home": "HOU", "market_home": 1.5},
+    {"away": "NO", "home": "DET", "market_home": -7.0},
+    {"away": "NYJ", "home": "TEN", "market_home": -1.0},
+    {"away": "CLE", "home": "JAX", "market_home": -9.0},
+    {"away": "ATL", "home": "PIT", "market_home": -6.0},
+    {"away": "ARI", "home": "LAC", "market_home": -9.5},
+    {"away": "GB", "home": "MIN", "market_home": -1.5},
+    {"away": "MIA", "home": "LV", "market_home": -3.0},
+    {"away": "WAS", "home": "PHI", "market_home": -5.5},
+    {"away": "DAL", "home": "NYG", "market_home": 3.0},
+    {"away": "DEN", "home": "KC", "market_home": -2.5}
+  ]
+}
