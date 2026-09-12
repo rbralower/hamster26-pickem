@@ -1,1 +1,9 @@
-placeholder
+{
+  "season": 2026,
+  "pool": "Hamster 26",
+  "weeks": [],
+  "season_expected": 0,
+  "season_actual": 0,
+  "season_max": 0,
+  "note": "Replaced placeholder. Automation run will rebuild the week-1 card."
+}
