@@ -1,0 +1,13 @@
+{
+  "pool_name": "Hamster 26",
+  "cbs_pool_url": "https://picks.cbssports.com/football/pickem/pools/kbxw63b2ge3dkmrxgeydk===?entryId=ivxhi4tzhizdiobxgazdembw",
+  "email_to": "rbralower@gmail.com",
+  "picks_per_week": 8,
+  "odds_api": {
+    "api_key": "YOUR_ODDS_API_KEY",
+    "sport": "americanfootball_nfl",
+    "regions": "us",
+    "markets": "spreads",
+    "odds_format": "american"
+  }
+}

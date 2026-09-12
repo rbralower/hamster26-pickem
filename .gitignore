@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/odds_api_live.json
+out/report.html
+out/report.txt
+out/season_tracker.xlsx
+.DS_Store
