@@ -164,8 +164,20 @@
     }
   ],
   "entry_on_cbs": {
-    "saved_at": "2026-09-10T12:26-07:00",
+    "approved_at": "2026-09-12T11:58-07:00",
+    "approved_by": "user reply: approve",
+    "submitted_on_cbs": false,
     "picks": [
+      {"weight": 8, "side": "BUF +1.5"},
+      {"weight": 7, "side": "PIT -3.5"},
+      {"weight": 6, "side": "CHI -2.5"},
+      {"weight": 5, "side": "ARI +10.5"},
+      {"weight": 4, "side": "DAL -2.5"},
+      {"weight": 3, "side": "MIA +3.5"},
+      {"weight": 2, "side": "IND +3.5"},
+      {"weight": 1, "side": "NO +7.5"}
+    ],
+    "prior_cbs_entry": [
       {"weight": 8, "side": "BUF +1.5"},
       {"weight": 7, "side": "ARI +10.5"},
       {"weight": 6, "side": "CHI -2.5"},
@@ -175,6 +187,6 @@
       {"weight": 2, "side": "NYJ +2.5"},
       {"weight": 1, "side": "JAX -7.5"}
     ],
-    "note": "User confirmed CBS entry now matches the model 8, including JAX -7.5 as the 1."
+    "note": "User approved the Sat 9/12 11:51 PT model 8. CBS login is blocked from this environment so the site was not updated. User still needs to Save these 8 on the CBS Picks page. Drops: NYJ +2.5 and JAX -7.5. Adds: PIT -3.5 (7) and IND +3.5 (2)."
   }
 }
