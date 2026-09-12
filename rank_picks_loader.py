@@ -1,10 +1,26 @@
 #!/usr/bin/env python3
-"""Load compressed rank_picks body and exec it."""
+"""Load rank_picks.py from disk, or from the compressed blob if missing."""
+from __future__ import annotations
+
 import base64
 import zlib
 from pathlib import Path
 
 root = Path(__file__).resolve().parent
-b64 = (root / "rank_picks.b64").read_text().strip()
-code = zlib.decompress(base64.b64decode(b64))
-exec(compile(code, str(root / "rank_picks.py"), "exec"), {"__name__": "__main__", "__file__": str(root / "rank_picks.py")})
+target = root / "rank_picks.py"
+
+
+def _load_source() -> str:
+    if target.exists() and target.stat().st_size > 1000:
+        return target.read_text()
+    blob = (root / "rank_picks.b64").read_text().strip()
+    code = zlib.decompress(base64.b64decode("".join(blob.split())))
+    target.write_bytes(code)
+    return code.decode()
+
+
+src = _load_source()
+exec(
+    compile(src, str(target), "exec"),
+    {"__name__": "__main__", "__file__": str(target)},
+)
