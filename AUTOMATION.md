@@ -25,8 +25,19 @@ python3 rank_picks.py
 Email `rbralower@gmail.com`:
 
 - subject: `Hamster 26 Week N pickem — YYYY-MM-DD`
-- body = `out/report.txt`
-- body_html = `out/report.html`
+- body = `out/report.txt` (full text report)
+- body_html = `out/report.html` (the ranker HTML — do not slim it)
+
+Required HTML sections, in order:
+1. Change banner (yellow/green/red badges on the 8)
+2. Recommended 8 — columns: w, Pick, Opp, P, q_mkt, q−50, Pwoo−50, P−50, CBS spread, Current spread, Last spread, Δ vs pool, Δ vs last, Change, Kick. Inline cell colors: NEW green, FLIP red, weight-change yellow.
+3. Expected points + season tracker line
+4. Not selected (same stat columns as the 8, minus w/Change)
+5. Already played (Game, Score, CBS line, Covered, Kick) when any game is final
+6. Every live side by P
+7. Line moves
+
+Never drop Opp / CBS spread / Current spread / component columns. Never send a summary-only HTML body.
 
 Never submit picks on CBS unless the latest user message is `approve`
 listing the eight sides.
