@@ -1,0 +1,180 @@
+{
+  "week": 1,
+  "season": 2026,
+  "source": "CBS Picks page pasted by user 2026-09-10 10:43 PT. Official locked Week 1 board.",
+  "needs_verify": false,
+  "verified_games": [
+    "NE @ SEA",
+    "SF @ LAR",
+    "CHI @ CAR",
+    "TB @ CIN",
+    "BAL @ IND",
+    "BUF @ HOU",
+    "NO @ DET",
+    "NYJ @ TEN",
+    "CLE @ JAX",
+    "ATL @ PIT",
+    "ARI @ LAC",
+    "GB @ MIN",
+    "MIA @ LV",
+    "WAS @ PHI",
+    "DAL @ NYG",
+    "DEN @ KC"
+  ],
+  "games": [
+    {
+      "away": "NE",
+      "home": "SEA",
+      "away_name": "New England Patriots",
+      "home_name": "Seattle Seahawks",
+      "pool_home_spread": -3.5,
+      "kickoff": "2026-09-09T20:20:00-04:00",
+      "status": "final",
+      "final": {
+        "away_score": 10,
+        "home_score": 13,
+        "note": "SEA 13 NE 10. Patriots +3.5 COVERED (lost by 3)."
+      }
+    },
+    {
+      "away": "SF",
+      "home": "LAR",
+      "away_name": "San Francisco 49ers",
+      "home_name": "Los Angeles Rams",
+      "pool_home_spread": -3.5,
+      "kickoff": "2026-09-10T20:35:00-04:00",
+      "status": "final",
+      "final": {
+        "away_score": 27,
+        "home_score": 7,
+        "note": "SF 27 LAR 7 in Melbourne. 49ers +3.5 COVERED. Rams -3.5 lost."
+      }
+    },
+    {
+      "away": "CHI",
+      "home": "CAR",
+      "away_name": "Chicago Bears",
+      "home_name": "Carolina Panthers",
+      "pool_home_spread": 2.5,
+      "kickoff": "2026-09-13T13:00:00-04:00"
+    },
+    {
+      "away": "TB",
+      "home": "CIN",
+      "away_name": "Tampa Bay Buccaneers",
+      "home_name": "Cincinnati Bengals",
+      "pool_home_spread": -3.5,
+      "kickoff": "2026-09-13T13:00:00-04:00"
+    },
+    {
+      "away": "BAL",
+      "home": "IND",
+      "away_name": "Baltimore Ravens",
+      "home_name": "Indianapolis Colts",
+      "pool_home_spread": 3.5,
+      "kickoff": "2026-09-13T13:00:00-04:00"
+    },
+    {
+      "away": "BUF",
+      "home": "HOU",
+      "away_name": "Buffalo Bills",
+      "home_name": "Houston Texans",
+      "pool_home_spread": -1.5,
+      "kickoff": "2026-09-13T13:00:00-04:00"
+    },
+    {
+      "away": "NO",
+      "home": "DET",
+      "away_name": "New Orleans Saints",
+      "home_name": "Detroit Lions",
+      "pool_home_spread": -7.5,
+      "kickoff": "2026-09-13T13:00:00-04:00"
+    },
+    {
+      "away": "NYJ",
+      "home": "TEN",
+      "away_name": "New York Jets",
+      "home_name": "Tennessee Titans",
+      "pool_home_spread": -2.5,
+      "kickoff": "2026-09-13T13:00:00-04:00"
+    },
+    {
+      "away": "CLE",
+      "home": "JAX",
+      "away_name": "Cleveland Browns",
+      "home_name": "Jacksonville Jaguars",
+      "pool_home_spread": -7.5,
+      "kickoff": "2026-09-13T13:00:00-04:00"
+    },
+    {
+      "away": "ATL",
+      "home": "PIT",
+      "away_name": "Atlanta Falcons",
+      "home_name": "Pittsburgh Steelers",
+      "pool_home_spread": -3.5,
+      "kickoff": "2026-09-13T13:00:00-04:00"
+    },
+    {
+      "away": "ARI",
+      "home": "LAC",
+      "away_name": "Arizona Cardinals",
+      "home_name": "Los Angeles Chargers",
+      "pool_home_spread": -10.5,
+      "kickoff": "2026-09-13T16:25:00-04:00"
+    },
+    {
+      "away": "GB",
+      "home": "MIN",
+      "away_name": "Green Bay Packers",
+      "home_name": "Minnesota Vikings",
+      "pool_home_spread": -1.5,
+      "kickoff": "2026-09-13T16:25:00-04:00"
+    },
+    {
+      "away": "MIA",
+      "home": "LV",
+      "away_name": "Miami Dolphins",
+      "home_name": "Las Vegas Raiders",
+      "pool_home_spread": -3.5,
+      "kickoff": "2026-09-13T16:25:00-04:00"
+    },
+    {
+      "away": "WAS",
+      "home": "PHI",
+      "away_name": "Washington Commanders",
+      "home_name": "Philadelphia Eagles",
+      "pool_home_spread": -4.5,
+      "kickoff": "2026-09-13T16:25:00-04:00"
+    },
+    {
+      "away": "DAL",
+      "home": "NYG",
+      "away_name": "Dallas Cowboys",
+      "home_name": "New York Giants",
+      "pool_home_spread": 2.5,
+      "kickoff": "2026-09-13T20:20:00-04:00"
+    },
+    {
+      "away": "DEN",
+      "home": "KC",
+      "away_name": "Denver Broncos",
+      "home_name": "Kansas City Chiefs",
+      "pool_home_spread": -2.5,
+      "kickoff": "2026-09-14T20:15:00-04:00"
+    }
+  ],
+  "entry_on_cbs": {
+    "saved_at": "2026-09-10T12:26-07:00",
+    "picks": [
+      {"weight": 8, "side": "BUF +1.5"},
+      {"weight": 7, "side": "ARI +10.5"},
+      {"weight": 6, "side": "CHI -2.5"},
+      {"weight": 5, "side": "NO +7.5"},
+      {"weight": 4, "side": "MIA +3.5"},
+      {"weight": 3, "side": "DAL -2.5"},
+      {"weight": 2, "side": "NYJ +2.5"},
+      {"weight": 1, "side": "JAX -7.5"}
+    ],
+    "note": "User confirmed CBS entry now matches the model 8, including JAX -7.5 as the 1."
+  }
+}
