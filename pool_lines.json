@@ -164,11 +164,21 @@
     }
   ],
   "entry_on_cbs": {
-    "approved_at": "2026-09-12T12:23-07:00",
-    "submitted_at": "2026-09-12T12:26-07:00",
+    "approved_at": "2026-09-13T09:31-07:00",
+    "submitted_at": "2026-09-13T09:38-07:00",
     "approved_by": "user reply: submitted",
     "submitted_on_cbs": true,
     "picks": [
+      {"weight": 8, "side": "BUF +1.5"},
+      {"weight": 7, "side": "PIT -3.5"},
+      {"weight": 6, "side": "IND +3.5"},
+      {"weight": 5, "side": "DAL -2.5"},
+      {"weight": 4, "side": "MIA +3.5"},
+      {"weight": 3, "side": "ARI +10.5"},
+      {"weight": 2, "side": "NYJ +2.5"},
+      {"weight": 1, "side": "PHI -4.5"}
+    ],
+    "prior_cbs_entry": [
       {"weight": 8, "side": "BUF +1.5"},
       {"weight": 7, "side": "PIT -3.5"},
       {"weight": 6, "side": "ARI +10.5"},
@@ -178,16 +188,6 @@
       {"weight": 2, "side": "NO +7.5"},
       {"weight": 1, "side": "IND +3.5"}
     ],
-    "prior_cbs_entry": [
-      {"weight": 8, "side": "BUF +1.5"},
-      {"weight": 7, "side": "PIT -3.5"},
-      {"weight": 6, "side": "CHI -2.5"},
-      {"weight": 5, "side": "ARI +10.5"},
-      {"weight": 4, "side": "DAL -2.5"},
-      {"weight": 3, "side": "MIA +3.5"},
-      {"weight": 2, "side": "IND +3.5"},
-      {"weight": 1, "side": "NO +7.5"}
-    ],
-    "note": "User submitted the Pinnacle-rule official 8 at 12:26 PT. Same sides as 12:04 card; weights ARI 6, CHI 5, MIA 4, DAL 3, NO 2, IND 1."
+    "note": "User submitted the Sun 9:31 PT official 8 at 9:38 PT. Drops CHI -2.5 and NO +7.5. Adds NYJ +2.5 (2) and PHI -4.5 (1). IND to 6, DAL to 5, ARI to 3."
   }
 }
