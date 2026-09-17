@@ -40,8 +40,19 @@
     {"away": "NYG", "home": "LAR", "away_name": "New York Giants", "home_name": "Los Angeles Rams", "pool_home_spread": -7.5, "kickoff": "2026-09-22T00:15:00+00:00"}
   ],
   "entry_on_cbs": {
+    "approved_at": "2026-09-17T13:27-07:00",
+    "approved_by": "user reply: approve",
     "submitted_on_cbs": false,
-    "picks": [],
-    "note": "Week 2 board locked from user paste. 0/8 picks on CBS. Autofill numbers on the paste were ignored."
+    "picks": [
+      {"weight": 8, "side": "CAR -1.5"},
+      {"weight": 7, "side": "MIN +5.5"},
+      {"weight": 6, "side": "DEN -2.5"},
+      {"weight": 5, "side": "TEN +7.5"},
+      {"weight": 4, "side": "NYG +7.5"},
+      {"weight": 3, "side": "NO +8.5"},
+      {"weight": 2, "side": "DAL -3.5"},
+      {"weight": 1, "side": "MIA +13.5"}
+    ],
+    "note": "User approved Thu 1:18 PT official 8. Not on CBS until they reply submitted."
   }
 }
