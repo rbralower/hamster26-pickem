@@ -3,24 +3,7 @@
   "season": 2026,
   "source": "CBS Picks page pasted by user 2026-09-16 09:34 PT. Official locked Week 2 board.",
   "needs_verify": false,
-  "verified_games": [
-    "DET @ BUF",
-    "CIN @ HOU",
-    "PIT @ NE",
-    "CLE @ TB",
-    "CAR @ ATL",
-    "NO @ BAL",
-    "MIN @ CHI",
-    "GB @ NYJ",
-    "PHI @ TEN",
-    "JAX @ DEN",
-    "LV @ LAC",
-    "WAS @ DAL",
-    "SEA @ ARI",
-    "MIA @ SF",
-    "IND @ KC",
-    "NYG @ LAR"
-  ],
+  "verified_games": ["DET @ BUF", "CIN @ HOU", "PIT @ NE", "CLE @ TB", "CAR @ ATL", "NO @ BAL", "MIN @ CHI", "GB @ NYJ", "PHI @ TEN", "JAX @ DEN", "LV @ LAC", "WAS @ DAL", "SEA @ ARI", "MIA @ SF", "IND @ KC", "NYG @ LAR"],
   "games": [
     {"away": "DET", "home": "BUF", "away_name": "Detroit Lions", "home_name": "Buffalo Bills", "pool_home_spread": -4.5, "kickoff": "2026-09-18T00:15:00+00:00"},
     {"away": "CIN", "home": "HOU", "away_name": "Cincinnati Bengals", "home_name": "Houston Texans", "pool_home_spread": -2.5, "kickoff": "2026-09-20T17:00:00+00:00"},
@@ -40,19 +23,19 @@
     {"away": "NYG", "home": "LAR", "away_name": "New York Giants", "home_name": "Los Angeles Rams", "pool_home_spread": -7.5, "kickoff": "2026-09-22T00:15:00+00:00"}
   ],
   "entry_on_cbs": {
-    "approved_at": "2026-09-17T13:27-07:00",
+    "approved_at": "2026-09-18T09:58-07:00",
     "approved_by": "user reply: approve",
     "submitted_on_cbs": false,
     "picks": [
       {"weight": 8, "side": "CAR -1.5"},
       {"weight": 7, "side": "MIN +5.5"},
-      {"weight": 6, "side": "DEN -2.5"},
-      {"weight": 5, "side": "TEN +7.5"},
-      {"weight": 4, "side": "NYG +7.5"},
-      {"weight": 3, "side": "NO +8.5"},
-      {"weight": 2, "side": "DAL -3.5"},
-      {"weight": 1, "side": "MIA +13.5"}
+      {"weight": 6, "side": "NYJ +3.5"},
+      {"weight": 5, "side": "DEN -2.5"},
+      {"weight": 4, "side": "TEN +7.5"},
+      {"weight": 3, "side": "NYG +7.5"},
+      {"weight": 2, "side": "CLE +8.5"},
+      {"weight": 1, "side": "DAL -3.5"}
     ],
-    "note": "User approved Thu 1:18 PT official 8. Not on CBS until they reply submitted."
+    "note": "User approved Fri 9:43 PT official 8. Not on CBS until they reply submitted."
   }
 }
