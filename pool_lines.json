@@ -25,17 +25,18 @@
   "entry_on_cbs": {
     "approved_at": "2026-09-20T08:55-07:00",
     "approved_by": "user reply: Approve",
-    "submitted_on_cbs": false,
+    "submitted_on_cbs": true,
+    "submitted_at": "2026-09-20T10:05-07:00",
     "picks": [
       {"weight": 8, "side": "NYG +7.5"},
       {"weight": 7, "side": "NYJ +3.5"},
-      {"weight": 4, "side": "TEN +7.5"},
       {"weight": 6, "side": "CAR -1.5"},
       {"weight": 5, "side": "IND +6.5"},
+      {"weight": 4, "side": "TEN +7.5"},
       {"weight": 3, "side": "DAL -3.5"},
       {"weight": 2, "side": "MIN +5.5"},
       {"weight": 1, "side": "NO +8.5"}
     ],
-    "note": "User approved Sun 8:54 PT official 8. Not on CBS until they reply submitted."
+    "note": "User submitted Sun 10:05 PT. Card is the 8:55 approve (not the 9:47 model 8)."
   }
 }
