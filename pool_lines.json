@@ -23,19 +23,19 @@
     {"away": "NYG", "home": "LAR", "away_name": "New York Giants", "home_name": "Los Angeles Rams", "pool_home_spread": -7.5, "kickoff": "2026-09-22T00:15:00+00:00"}
   ],
   "entry_on_cbs": {
-    "approved_at": "2026-09-18T09:58-07:00",
-    "approved_by": "user reply: approve",
+    "approved_at": "2026-09-19T19:16-07:00",
+    "approved_by": "user reply: approved",
     "submitted_on_cbs": false,
     "picks": [
       {"weight": 8, "side": "CAR -1.5"},
-      {"weight": 7, "side": "MIN +5.5"},
+      {"weight": 7, "side": "NYG +7.5"},
       {"weight": 6, "side": "NYJ +3.5"},
-      {"weight": 5, "side": "DEN -2.5"},
-      {"weight": 4, "side": "TEN +7.5"},
-      {"weight": 3, "side": "NYG +7.5"},
+      {"weight": 5, "side": "TEN +7.5"},
+      {"weight": 4, "side": "DEN -2.5"},
+      {"weight": 3, "side": "MIN +5.5"},
       {"weight": 2, "side": "CLE +8.5"},
-      {"weight": 1, "side": "DAL -3.5"}
+      {"weight": 1, "side": "IND +6.5"}
     ],
-    "note": "User approved Fri 9:43 PT official 8. Not on CBS until they reply submitted."
+    "note": "User approved Sat 7:12 PT official 8. Not on CBS until they reply submitted."
   }
 }
