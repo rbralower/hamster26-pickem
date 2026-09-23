@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Assemble rank_picks.py from ALL rank_picks_part*.py files, else b64."""
+"""Assemble rank_picks.py from parts, local file, b64 chunks, or rank_picks.b64."""
 from __future__ import annotations
 import base64
 import sys
@@ -41,32 +41,38 @@ def _from_file():
     return None
 
 
-def _from_b64():
-    path = root / "rank_picks.b64"
-    if not path.exists():
-        return None
-    blob = path.read_text().strip()
+def _decode_b64(blob, label):
     try:
         code = zlib.decompress(base64.b64decode("".join(blob.split())))
     except Exception as exc:
-        print("loader: b64 decompress failed:", exc, file=sys.stderr)
+        print("loader:", label, "decompress failed:", exc, file=sys.stderr)
         return None
     src = code.decode()
     if not _ok_src(src):
-        print("loader: b64 payload failed sanity check", file=sys.stderr)
+        print("loader:", label, "failed sanity check", file=sys.stderr)
         return None
     target.write_text(src)
     return src
 
 
-src = _from_parts() or _from_file() or _from_b64()
+def _from_b64():
+    chunks = sorted(root.glob("rank_picks_b64_*.txt"))
+    if chunks:
+        print("loader b64 chunks:", [p.name for p in chunks], file=sys.stderr)
+        src = _decode_b64("".join(p.read_text() for p in chunks), "chunks")
+        if src:
+            return src
+    path = root / "rank_picks.b64"
+    if not path.exists():
+        return None
+    return _decode_b64(path.read_text(), "rank_picks.b64")
+
+
+src = _from_file() or _from_parts() or _from_b64()
 if not src:
     listing = "\n".join(
         f"  {p.name} {p.stat().st_size}" for p in sorted(root.iterdir()) if p.is_file()
     )
-    sys.stderr.write(
-        "FATAL: cannot assemble rank_picks.py. Need rank_picks_part1.py through "
-        "rank_picks_part5.py on GitHub, or a working rank_picks.b64.\n" + listing + "\n"
-    )
+    sys.stderr.write("FATAL: cannot assemble rank_picks.py.\n" + listing + "\n")
     raise SystemExit(2)
 exec(compile(src, str(target), "exec"), {"__name__": "__main__", "__file__": str(target)})
