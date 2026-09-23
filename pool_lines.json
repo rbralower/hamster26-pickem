@@ -23,8 +23,20 @@
     {"away": "PHI", "home": "CHI", "away_name": "Philadelphia Eagles", "home_name": "Chicago Bears", "pool_home_spread": 3.5, "kickoff": "2026-09-29T00:15:00+00:00"}
   ],
   "entry_on_cbs": {
+    "approved_at": "2026-09-23T10:50-07:00",
+    "approved_by": "user reply: approve",
     "submitted_on_cbs": false,
-    "picks": [],
-    "note": "Week 3 board locked from user paste Wed 10:27 PT. No 8 submitted until approve + submitted."
+    "picks": [
+      {"weight": 8, "side": "BAL -2.5"},
+      {"weight": 7, "side": "TEN +3.5"},
+      {"weight": 6, "side": "ATL +6.5"},
+      {"weight": 5, "side": "PHI -3.5"},
+      {"weight": 4, "side": "JAX -2.5"},
+      {"weight": 3, "side": "WAS +7.5"},
+      {"weight": 2, "side": "LV +3.5"},
+      {"weight": 1, "side": "HOU -2.5"}
+    ],
+    "expected_points": 19.98,
+    "note": "User approved Wed 10:50 PT official 8. Not on CBS until they reply submitted."
   }
 }
