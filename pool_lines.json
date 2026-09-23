@@ -23,20 +23,20 @@
     {"away": "PHI", "home": "CHI", "away_name": "Philadelphia Eagles", "home_name": "Chicago Bears", "pool_home_spread": 3.5, "kickoff": "2026-09-29T00:15:00+00:00"}
   ],
   "entry_on_cbs": {
-    "approved_at": "2026-09-23T10:50-07:00",
-    "approved_by": "user reply: approve",
+    "approved_at": "2026-09-23T15:09-07:00",
+    "approved_by": "user reply: approved",
     "submitted_on_cbs": false,
     "picks": [
       {"weight": 8, "side": "BAL -2.5"},
       {"weight": 7, "side": "TEN +3.5"},
-      {"weight": 6, "side": "ATL +6.5"},
-      {"weight": 5, "side": "PHI -3.5"},
-      {"weight": 4, "side": "JAX -2.5"},
-      {"weight": 3, "side": "WAS +7.5"},
-      {"weight": 2, "side": "LV +3.5"},
-      {"weight": 1, "side": "HOU -2.5"}
+      {"weight": 6, "side": "PHI -3.5"},
+      {"weight": 5, "side": "JAX -2.5"},
+      {"weight": 4, "side": "ATL +6.5"},
+      {"weight": 3, "side": "LV +3.5"},
+      {"weight": 2, "side": "WAS +7.5"},
+      {"weight": 1, "side": "CAR -2.5"}
     ],
-    "expected_points": 19.98,
-    "note": "User approved Wed 10:50 PT official 8. Not on CBS until they reply submitted."
+    "expected_points": 20.00,
+    "note": "User approved Wed 3:09 PT optionality card (ATL capped at 4). Not on CBS until they reply submitted."
   }
 }
