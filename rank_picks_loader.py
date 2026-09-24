@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Assemble rank_picks.py from parts, local file, b64 chunks, or rank_picks.b64."""
+"""Assemble rank_picks.py from parts, local file, or 8 b64 chunks. Never use rank_picks.b64."""
 from __future__ import annotations
 import base64
 import sys
@@ -57,15 +57,15 @@ def _decode_b64(blob, label):
 
 def _from_b64():
     chunks = sorted(root.glob("rank_picks_b64_*.txt"))
-    if chunks:
-        print("loader b64 chunks:", [p.name for p in chunks], file=sys.stderr)
+    print("loader b64 chunks:", [p.name for p in chunks], file=sys.stderr)
+    if len(chunks) >= 8:
         src = _decode_b64("".join(p.read_text() for p in chunks), "chunks")
         if src:
             return src
-    path = root / "rank_picks.b64"
-    if not path.exists():
-        return None
-    return _decode_b64(path.read_text(), "rank_picks.b64")
+    else:
+        print("loader: need 8 b64 chunks, have", len(chunks), file=sys.stderr)
+    print("loader: skipping rank_picks.b64", file=sys.stderr)
+    return None
 
 
 src = _from_file() or _from_parts() or _from_b64()
