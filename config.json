@@ -4,11 +4,11 @@
   "email_to": "rbralower@gmail.com",
   "picks_per_week": 8,
   "odds_api": {
-    "api_key": "826675de6860a41e74884304724919ea",
+    "api_key": "SET_BY_AUTOMATION",
     "sport": "americanfootball_nfl",
-    "regions": "us",
+    "regions": "us,eu",
     "markets": "spreads",
     "odds_format": "american"
   },
-  "notes": "Private repo. Odds API key lives here so scheduled clones can fetch live US spreads."
+  "notes": "Public repo. Do not put the Odds API key here. The 9:15 job writes the key into /tmp at runtime."
 }
