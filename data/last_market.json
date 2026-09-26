@@ -1,19 +1,20 @@
 {
-  "saved_at": "2026-09-12T11:19:01.018922-07:00",
+  "saved_at": "2026-09-26T09:24:57.295450-07:00",
   "games": [
-    {"away": "CHI", "home": "CAR", "market_home": 3.0},
-    {"away": "TB", "home": "CIN", "market_home": -3.5},
-    {"away": "BAL", "home": "IND", "market_home": 3.0},
-    {"away": "BUF", "home": "HOU", "market_home": 1.5},
-    {"away": "NO", "home": "DET", "market_home": -7.0},
-    {"away": "NYJ", "home": "TEN", "market_home": -1.0},
-    {"away": "CLE", "home": "JAX", "market_home": -9.0},
-    {"away": "ATL", "home": "PIT", "market_home": -6.0},
-    {"away": "ARI", "home": "LAC", "market_home": -9.5},
-    {"away": "GB", "home": "MIN", "market_home": -1.5},
-    {"away": "MIA", "home": "LV", "market_home": -3.0},
-    {"away": "WAS", "home": "PHI", "market_home": -5.5},
-    {"away": "DAL", "home": "NYG", "market_home": 3.0},
-    {"away": "DEN", "home": "KC", "market_home": -2.5}
+    {"away": "LAC", "home": "BUF", "market_home": -7.0},
+    {"away": "CAR", "home": "CLE", "market_home": 2.5},
+    {"away": "NYJ", "home": "DET", "market_home": -6.5},
+    {"away": "HOU", "home": "IND", "market_home": 1.5},
+    {"away": "NE", "home": "JAX", "market_home": -3.0},
+    {"away": "KC", "home": "MIA", "market_home": 10.5},
+    {"away": "TEN", "home": "NYG", "market_home": -2.5},
+    {"away": "CIN", "home": "PIT", "market_home": 3.5},
+    {"away": "SEA", "home": "WAS", "market_home": 8.0},
+    {"away": "ARI", "home": "SF", "market_home": -8.5},
+    {"away": "MIN", "home": "TB", "market_home": 1.5},
+    {"away": "BAL", "home": "DAL", "market_home": 3.5},
+    {"away": "LV", "home": "NO", "market_home": -3.0},
+    {"away": "LAR", "home": "DEN", "market_home": 2.0},
+    {"away": "PHI", "home": "CHI", "market_home": 5.0}
   ]
 }
