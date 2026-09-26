@@ -9,7 +9,7 @@
     {"away": "LAC", "home": "BUF", "away_name": "Los Angeles Chargers", "home_name": "Buffalo Bills", "pool_home_spread": -7.5, "kickoff": "2026-09-27T17:00:00+00:00"},
     {"away": "CAR", "home": "CLE", "away_name": "Carolina Panthers", "home_name": "Cleveland Browns", "pool_home_spread": 2.5, "kickoff": "2026-09-27T17:00:00+00:00"},
     {"away": "NYJ", "home": "DET", "away_name": "New York Jets", "home_name": "Detroit Lions", "pool_home_spread": -6.5, "kickoff": "2026-09-27T17:00:00+00:00"},
-    {"away": "HOU", "home": "IND", "away_name": "Houston Texons", "home_name": "Indianapolis Colts", "pool_home_spread": 2.5, "kickoff": "2026-09-27T17:00:00+00:00"},
+    {"away": "HOU", "home": "IND", "away_name": "Houston Texans", "home_name": "Indianapolis Colts", "pool_home_spread": 2.5, "kickoff": "2026-09-27T17:00:00+00:00"},
     {"away": "NE", "home": "JAX", "away_name": "New England Patriots", "home_name": "Jacksonville Jaguars", "pool_home_spread": -2.5, "kickoff": "2026-09-27T17:00:00+00:00"},
     {"away": "KC", "home": "MIA", "away_name": "Kansas City Chiefs", "home_name": "Miami Dolphins", "pool_home_spread": 11.5, "kickoff": "2026-09-27T17:00:00+00:00"},
     {"away": "TEN", "home": "NYG", "away_name": "Tennessee Titans", "home_name": "New York Giants", "pool_home_spread": -3.5, "kickoff": "2026-09-27T17:00:00+00:00"},
