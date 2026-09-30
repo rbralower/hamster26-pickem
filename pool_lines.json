@@ -23,11 +23,20 @@
     {"away": "ATL", "home": "NO", "away_name": "Atlanta Falcons", "home_name": "New Orleans Saints", "pool_home_spread": -2.5, "kickoff": "2026-10-06T00:15:00+00:00"}
   ],
   "entry_on_cbs": {
-    "approved_at": null,
-    "approved_by": null,
-    "submitted_on_cbs": false,
-    "picks": [],
-    "expected_points": null,
-    "note": "Week 4 board locked from CBS paste. 0/8 on CBS. Do not submit until user replies approve + the 8 sides."
+    "approved_at": "2026-09-30T08:18-07:00",
+    "approved_by": "user reply: approve",
+    "submitted_on_cbs": true,
+    "picks": [
+      {"weight": 8, "side": "ARI -0.5"},
+      {"weight": 7, "side": "LAR -2.5"},
+      {"weight": 6, "side": "HOU -2.5"},
+      {"weight": 5, "side": "MIA +11.5"},
+      {"weight": 4, "side": "LAC +7.5"},
+      {"weight": 3, "side": "PIT -2.5"},
+      {"weight": 2, "side": "NO -2.5"},
+      {"weight": 1, "side": "CIN -2.5"}
+    ],
+    "expected_points": 19.33,
+    "note": "Wed 8:18 PT approve. Enter these 8 on CBS. PIT -2.5 w3 locks Thu 5:15 PT."
   }
 }
