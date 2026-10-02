@@ -23,19 +23,20 @@
     {"away": "ATL", "home": "NO", "away_name": "Atlanta Falcons", "home_name": "New Orleans Saints", "pool_home_spread": -2.5, "kickoff": "2026-10-06T00:15:00+00:00"}
   ],
   "entry_on_cbs": {
-    "approved_at": "2026-09-30T08:18-07:00",
+    "approved_at": "2026-10-02T14:09-07:00",
     "approved_by": "user reply: approve",
     "submitted_on_cbs": true,
     "picks": [
-      {"weight": 8, "side": "ARI -0.5"},
-      {"weight": 7, "side": "LAR -2.5"},
-      {"weight": 6, "side": "HOU -2.5"},
-      {"weight": 5, "side": "MIA +11.5"},
-      {"weight": 4, "side": "LAC +7.5"},
-      {"weight": 2, "side": "NO -2.5"},
-      {"weight": 1, "side": "CIN -2.5"}
+      {"weight": 8, "side": "LAR -2.5"},
+      {"weight": 7, "side": "ARI -0.5"},
+      {"weight": 6, "side": "MIA +11.5"},
+      {"weight": 5, "side": "HOU -2.5"},
+      {"weight": 4, "side": "CIN -2.5"},
+      {"weight": 3, "side": "BUF -6.5"},
+      {"weight": 2, "side": "LAC +7.5"},
+      {"weight": 1, "side": "IND -3.5"}
     ],
-    "expected_points": null,
-    "note": "PIT -2.5 was not entered. TNF CLE 27 PIT 24, PIT -2.5 would not have covered. w3 open. Do not kickoff-lock PIT."
+    "expected_points": 19.88,
+    "note": "Fri 2:09 PT approve of 2:03 model. PIT never entered. Enter these 8 on CBS. IND -3.5 locks Sun 6:30 AM PT."
   }
 }
