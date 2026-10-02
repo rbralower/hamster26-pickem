@@ -32,11 +32,10 @@
       {"weight": 6, "side": "HOU -2.5"},
       {"weight": 5, "side": "MIA +11.5"},
       {"weight": 4, "side": "LAC +7.5"},
-      {"weight": 3, "side": "PIT -2.5"},
       {"weight": 2, "side": "NO -2.5"},
       {"weight": 1, "side": "CIN -2.5"}
     ],
-    "expected_points": 19.33,
-    "note": "Wed 8:18 PT approve. Enter these 8 on CBS. PIT -2.5 w3 locks Thu 5:15 PT."
+    "expected_points": null,
+    "note": "PIT -2.5 was not entered. TNF CLE 27 PIT 24, PIT -2.5 would not have covered. w3 open. Do not kickoff-lock PIT."
   }
 }
