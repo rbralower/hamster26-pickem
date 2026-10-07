@@ -1,20 +1,80 @@
 {
-  "saved_at": "2026-10-04T09:20:14.023074-07:00",
+  "saved_at": "2026-10-07T09:19:29.044763-07:00",
   "games": [
-    {"away": "IND", "home": "WAS", "market_home": 14.5},
-    {"away": "NE", "home": "BUF", "market_home": -7.0},
-    {"away": "TEN", "home": "BAL", "market_home": -11.5},
-    {"away": "NYJ", "home": "CHI", "market_home": -3.5},
-    {"away": "JAX", "home": "CIN", "market_home": -2.5},
-    {"away": "DAL", "home": "HOU", "market_home": -3.0},
-    {"away": "ARI", "home": "NYG", "market_home": 2.5},
-    {"away": "LAR", "home": "PHI", "market_home": 3.5},
-    {"away": "GB", "home": "TB", "market_home": 3.0},
-    {"away": "MIA", "home": "MIN", "market_home": -10.0},
-    {"away": "KC", "home": "LV", "market_home": 4.5},
-    {"away": "DEN", "home": "SF", "market_home": -3.0},
-    {"away": "LAC", "home": "SEA", "market_home": -7.0},
-    {"away": "DET", "home": "CAR", "market_home": 3.5},
-    {"away": "ATL", "home": "NO", "market_home": -1.5}
+    {
+      "away": "TB",
+      "home": "DAL",
+      "market_home": -8.5
+    },
+    {
+      "away": "PHI",
+      "home": "JAX",
+      "market_home": -7.5
+    },
+    {
+      "away": "CHI",
+      "home": "GB",
+      "market_home": 3.0
+    },
+    {
+      "away": "CIN",
+      "home": "MIA",
+      "market_home": 7.0
+    },
+    {
+      "away": "CLE",
+      "home": "NYJ",
+      "market_home": -2.0
+    },
+    {
+      "away": "HOU",
+      "home": "TEN",
+      "market_home": 7.5
+    },
+    {
+      "away": "IND",
+      "home": "PIT",
+      "market_home": -2.5
+    },
+    {
+      "away": "LV",
+      "home": "NE",
+      "market_home": -3.5
+    },
+    {
+      "away": "MIN",
+      "home": "NO",
+      "market_home": 2.0
+    },
+    {
+      "away": "NYG",
+      "home": "WAS",
+      "market_home": -3.5
+    },
+    {
+      "away": "DEN",
+      "home": "LAC",
+      "market_home": 3.5
+    },
+    {
+      "away": "DET",
+      "home": "ARI",
+      "market_home": 5.5
+    },
+    {
+      "away": "SF",
+      "home": "SEA",
+      "market_home": -3.0
+    },
+    {
+      "away": "BAL",
+      "home": "ATL",
+      "market_home": -3.5
+    },
+    {
+      "away": "BUF",
+      "home": "LAR",
+      "market_home": -3.0
+    }
   ]
 }
