@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-10-07T09:19:29.044763-07:00",
+  "saved_at": "2026-10-08T09:19:57.240947-07:00",
   "games": [
     {
       "away": "TB",
@@ -14,17 +14,17 @@
     {
       "away": "CHI",
       "home": "GB",
-      "market_home": 3.0
+      "market_home": 1.5
     },
     {
       "away": "CIN",
       "home": "MIA",
-      "market_home": 7.0
+      "market_home": 6.5
     },
     {
       "away": "CLE",
       "home": "NYJ",
-      "market_home": -2.0
+      "market_home": -1.5
     },
     {
       "away": "HOU",
@@ -69,7 +69,7 @@
     {
       "away": "BAL",
       "home": "ATL",
-      "market_home": -3.5
+      "market_home": -3.0
     },
     {
       "away": "BUF",
