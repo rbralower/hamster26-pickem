@@ -1,11 +1,6 @@
 {
-  "saved_at": "2026-10-08T09:19:57.240947-07:00",
+  "saved_at": "2026-10-09T09:18:55.933315-07:00",
   "games": [
-    {
-      "away": "TB",
-      "home": "DAL",
-      "market_home": -8.5
-    },
     {
       "away": "PHI",
       "home": "JAX",
@@ -14,7 +9,7 @@
     {
       "away": "CHI",
       "home": "GB",
-      "market_home": 1.5
+      "market_home": 1.0
     },
     {
       "away": "CIN",
@@ -24,7 +19,7 @@
     {
       "away": "CLE",
       "home": "NYJ",
-      "market_home": -1.5
+      "market_home": -2.0
     },
     {
       "away": "HOU",
@@ -44,12 +39,12 @@
     {
       "away": "MIN",
       "home": "NO",
-      "market_home": 2.0
+      "market_home": 2.5
     },
     {
       "away": "NYG",
       "home": "WAS",
-      "market_home": -3.5
+      "market_home": -4.0
     },
     {
       "away": "DEN",
