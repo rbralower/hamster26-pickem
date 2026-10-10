@@ -1,1 +1,75 @@
-PLACEHOLDER_LAST
+{
+  "saved_at": "2026-10-10T09:24:19.398731-07:00",
+  "games": [
+    {
+      "away": "PHI",
+      "home": "JAX",
+      "market_home": -7.5
+    },
+    {
+      "away": "CHI",
+      "home": "GB",
+      "market_home": 1.5
+    },
+    {
+      "away": "CIN",
+      "home": "MIA",
+      "market_home": 7.0
+    },
+    {
+      "away": "CLE",
+      "home": "NYJ",
+      "market_home": -2.5
+    },
+    {
+      "away": "HOU",
+      "home": "TEN",
+      "market_home": 7.0
+    },
+    {
+      "away": "IND",
+      "home": "PIT",
+      "market_home": -2.5
+    },
+    {
+      "away": "LV",
+      "home": "NE",
+      "market_home": -3.5
+    },
+    {
+      "away": "MIN",
+      "home": "NO",
+      "market_home": 2.5
+    },
+    {
+      "away": "NYG",
+      "home": "WAS",
+      "market_home": -3.5
+    },
+    {
+      "away": "DEN",
+      "home": "LAC",
+      "market_home": 3.5
+    },
+    {
+      "away": "DET",
+      "home": "ARI",
+      "market_home": 5.5
+    },
+    {
+      "away": "SF",
+      "home": "SEA",
+      "market_home": -3.0
+    },
+    {
+      "away": "BAL",
+      "home": "ATL",
+      "market_home": -3.5
+    },
+    {
+      "away": "BUF",
+      "home": "LAR",
+      "market_home": -3.0
+    }
+  ]
+}
