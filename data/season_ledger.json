@@ -1,1 +1,141 @@
-PLACEHOLDER
+{
+  "season": 2026,
+  "pool": "Hamster 26",
+  "weeks": [
+    {
+      "week": 5,
+      "picks": [],
+      "updated_at": "2026-10-25T09:27:46.461231-07:00",
+      "expected": 0,
+      "actual": 0,
+      "pending_expected": 0,
+      "n_win": 0,
+      "n_loss": 0,
+      "n_pending": 0,
+      "max": 0
+    },
+    {
+      "week": 7,
+      "picks": [
+        {
+          "weight": 8,
+          "team": "SF",
+          "spread": -2.5,
+          "loc": "A",
+          "p": 0.521797153024911,
+          "away": "SF",
+          "home": "ATL",
+          "pool_home": 2.5,
+          "result": "pending",
+          "points": 0,
+          "locked": false
+        },
+        {
+          "weight": 7,
+          "team": "NYG",
+          "spread": 10.5,
+          "loc": "A",
+          "p": 0.521797153024911,
+          "away": "NYG",
+          "home": "HOU",
+          "pool_home": -10.5,
+          "result": "pending",
+          "points": 0,
+          "locked": false
+        },
+        {
+          "weight": 6,
+          "team": "DET",
+          "spread": -3.5,
+          "loc": "H",
+          "p": 0.521797153024911,
+          "away": "GB",
+          "home": "DET",
+          "pool_home": -3.5,
+          "result": "pending",
+          "points": 0,
+          "locked": false
+        },
+        {
+          "weight": 5,
+          "team": "LAR",
+          "spread": -3.0,
+          "loc": "A",
+          "p": 0.5206276072370823,
+          "away": "LAR",
+          "home": "LV",
+          "pool_home": 3.0,
+          "result": "pending",
+          "points": 0,
+          "locked": false
+        },
+        {
+          "weight": 4,
+          "team": "MIA",
+          "spread": 3.5,
+          "loc": "A",
+          "p": 0.5162468054034319,
+          "away": "MIA",
+          "home": "NYJ",
+          "pool_home": -3.5,
+          "result": "pending",
+          "points": 0,
+          "locked": false
+        },
+        {
+          "weight": 3,
+          "team": "BUF",
+          "spread": -3.0,
+          "loc": "H",
+          "p": 0.5151340343301997,
+          "away": "BAL",
+          "home": "BUF",
+          "pool_home": -3.0,
+          "result": "pending",
+          "points": 0,
+          "locked": false
+        },
+        {
+          "weight": 2,
+          "team": "BAL",
+          "spread": 3.0,
+          "loc": "H",
+          "p": 0.5116279069767442,
+          "away": "CIN",
+          "home": "BAL",
+          "pool_home": 3.0,
+          "result": "pending",
+          "points": 0,
+          "locked": false
+        },
+        {
+          "weight": 1,
+          "team": "TB",
+          "spread": 3.0,
+          "loc": "A",
+          "p": 0.5116279069767442,
+          "away": "TB",
+          "home": "CAR",
+          "pool_home": -3.0,
+          "result": "pending",
+          "points": 0,
+          "locked": false
+        }
+      ],
+      "updated_at": "2026-10-25T09:28:30.514785-07:00",
+      "expected": 18.71,
+      "actual": 0,
+      "pending_expected": 18.71,
+      "n_win": 0,
+      "n_loss": 0,
+      "n_pending": 8,
+      "max": 36
+    }
+  ],
+  "season_expected": 18.71,
+  "season_actual": 0,
+  "season_max": 36,
+  "season_expected_settled": 0,
+  "season_settled_max": 0,
+  "updated_at": "2026-10-25T09:28:30.514785-07:00"
+}
