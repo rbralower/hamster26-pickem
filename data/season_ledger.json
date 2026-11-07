@@ -5,7 +5,7 @@
     {
       "week": 5,
       "picks": [],
-      "updated_at": "2026-10-25T09:27:46.461231-07:00",
+      "updated_at": "2026-11-07T09:24:20.376128-08:00",
       "expected": 0,
       "actual": 0,
       "pending_expected": 0,
@@ -137,5 +137,5 @@
   "season_max": 36,
   "season_expected_settled": 0,
   "season_settled_max": 0,
-  "updated_at": "2026-10-25T09:28:30.514785-07:00"
+  "updated_at": "2026-11-07T09:24:20.376128-08:00"
 }
