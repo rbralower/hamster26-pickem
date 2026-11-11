@@ -1,1 +1,24 @@
-PLACEHOLDER
+{
+  "season": 2026,
+  "pool": "Hamster 26",
+  "weeks": [
+    {
+      "week": 5,
+      "picks": [],
+      "updated_at": "2026-11-11T09:25:11.613192-08:00",
+      "expected": 0,
+      "actual": 0,
+      "pending_expected": 0,
+      "n_win": 0,
+      "n_loss": 0,
+      "n_pending": 0,
+      "max": 0
+    }
+  ],
+  "season_expected": 0.0,
+  "season_actual": 0,
+  "season_max": 0,
+  "season_expected_settled": 0,
+  "season_settled_max": 0,
+  "updated_at": "2026-11-11T09:25:11.613192-08:00"
+}
